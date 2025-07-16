@@ -1,8 +1,8 @@
 
 # BMI-Python-Tkinter
 # 🧮 Beginner-BMI-Calculator-Python-tkinter
-This is my *beginner project* using Python and Tkinter.  
-It’s a simple *BMI (Body Mass Index)* calculator that takes your height and weight as input and tells you your BMI along with the health category (e.g., Underweight, Normal, Overweight, etc.).
+This is my **beginner project** using Python and Tkinter.  
+It’s a simple **BMI (Body Mass Index)** calculator that takes your height and weight as input and tells you your BMI along with the health category (e.g., Underweight, Normal, Overweight, etc.).
 
 I followed a YouTube tutorial to learn how to build this and understand the basics of creating interactive GUI apps in Python.
 
